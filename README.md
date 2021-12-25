@@ -4,7 +4,7 @@ https://limitcourse.netlify.app
 
 
 Prezentation:
-https://presentationlimit.netlify.app/
+https://presentationkz.netlify.app/
 
 
 
